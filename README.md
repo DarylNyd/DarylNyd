@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Daryl Nemeck</h1>
-<h3 align="center">An Artist, Designer and frontend Developer</h3>
+<h3 align="center">A Young Artist, Designer and frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darylnyd&label=Profile%20views&color=0e75b6&style=flat" alt="darylnyd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darylnyd" alt="darylnyd" /></a> </p>
+- 👀 I’m interested in all concerning Web Development, Web Design, Arts, Photography, 3D models and many other art related subject. In a nutshell i'm curious.
+
+- 💞️ I’m looking to collaborate on differents projects,
 
 - 🔭 I’m currently working on **Many projects**
 
-- 🌱 I’m currently learning **Next.js, Three.js and other front frameworks**
+- 🌱 I’m currently learning Web Development, UX/UI Design and 3D modelisation and other art related subjects ,
 
 - 👨‍💻 All of my projects will available at [upcoming](upcoming)
 
-- 💬 Ask me about **React.js, React-Native**
-
-- 📫 How to reach me **upcoming**
+- 📫 You can reach to me: through my social medias or my LinkedIN
 
 - ⚡ Fun fact **I'm Always in Good mood**
 
