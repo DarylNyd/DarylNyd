@@ -32,7 +32,7 @@
 <br/>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darylnyd&" alt="darylnyd" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darylnyd&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="darylnyd" />
 </p>
 
 ## 📊 My Github Stats
