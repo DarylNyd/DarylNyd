@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daryl Nemeck</h1>
 <h3 align="center">A Young Artist, Designer and frontend Developer</h3>
+<img align="right" alt="coding" src="https://goprominent.com/uploads/softwareblog_cover-01.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darylnyd&label=Profile%20views&color=0e75b6&style=flat" alt="darylnyd" /> </p>
 
